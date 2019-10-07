@@ -1,0 +1,14 @@
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\Data\Databasequanlybanhang.mdf
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\Data\Databasequanlybanhang_log.ldf
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frmdangnhap.resources
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+c:\users\student\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\winform\quanlybanhang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\winform\quanlybanhang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\winform\quanlybanhang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
